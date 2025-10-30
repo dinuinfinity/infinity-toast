@@ -1,0 +1,24 @@
+{
+  "name": "infinity-toast",
+  "version": "1.0.0",
+  "description": "A lightweight, dependency-free toast notification system",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinuinfinity/infinity-toast.git"
+  },
+  "homepage": "https://github.com/dinuinfinity/infinity-toast#readme",
+  "bugs": {
+    "url": "https://github.com/dinuinfinity/infinity-toast/issues"
+  },
+  "keywords": [
+    "toast",
+    "notification",
+    "alert",
+    "popup",
+    "notify"
+  ],
+  "author": "Dinesh Babu",
+  "license": "MIT",
+  "type": "module"
+}
